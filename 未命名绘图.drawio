@@ -1,1 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T06:47:48.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.9.3" etag="hCGchOjGAyg05Yl8zGog" type="github"><diagram id="sLk_stwpL7MFYZr524TN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-02T06:57:00.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="iYXuOKUxGeDXKcwadxGD" version="14.9.3" type="github">
+  <diagram id="sLk_stwpL7MFYZr524TN" name="第 1 页">
+    <mxGraphModel dx="2125" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2X8W_k7Oky5Hbt831G7s-1" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2X8W_k7Oky5Hbt831G7s-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2X8W_k7Oky5Hbt831G7s-2" target="2X8W_k7Oky5Hbt831G7s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2X8W_k7Oky5Hbt831G7s-2" value="底部tab切换" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2X8W_k7Oky5Hbt831G7s-3" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;" edge="1" parent="1">
+          <mxGeometry x="-1" y="283" width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="104.5" as="sourcePoint" />
+            <mxPoint x="140" y="104.5" as="targetPoint" />
+            <mxPoint x="-190" y="73" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2X8W_k7Oky5Hbt831G7s-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.043;entryY=0.786;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2X8W_k7Oky5Hbt831G7s-4" target="2X8W_k7Oky5Hbt831G7s-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2X8W_k7Oky5Hbt831G7s-4" value="顶部tab配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2X8W_k7Oky5Hbt831G7s-5" value="apollo配置：樊登讲书，非凡精读，李蕾慢读" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-20" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
